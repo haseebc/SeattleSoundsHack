@@ -70,14 +70,8 @@ root@kali:~# nikto -h 192.168.0.168
 ---------------------------------------------------------------------------
 ```
 
+It's worth making a note of `/images` and `/admin` directories can be traversed
 
+## Browse the site manually
 
-- 1st party bug bounties = Google Paypal, etc
-- 2nd party bug bounties = Bugcrowd, H1, Synack, etc
-
-Because competition is introduced; when working in a bug bounty it is essential to have templates set up for your "most found" classes of vulnerabilities. Obviously custom vulnerabilities will always be custom writeups, but having a template for ones that come up often is essential. **Protip:** always remember to change the URLS and domains in the templates. Nothing will get a bug invalidated faster than stating the wrong domain or URLs in a report.
-
-When desigining these templates there are two really great resources to read:
-
-- https://blog.bugcrowd.com/advice-for-writing-a-great-vulnerability-report/
-- https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640
+When browsing the Blog section it's noticeable the username of Admin is defined. interesting, make a note of this!
