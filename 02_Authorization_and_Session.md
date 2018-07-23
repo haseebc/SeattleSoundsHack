@@ -1,5 +1,8 @@
 # Discovery
 
+
+[Contribution guidelines for this project](images/image1.png)
+
 ## Find the road less traveled
 
 This means find the application (or parts of an application) less tested. In wide scoped projects the flagship application will most liekly be heavily assessed. 
