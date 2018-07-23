@@ -1,18 +1,18 @@
-# Philosophy
+# Recon
 
-## Differences from standard testing
-Single-sourced:
+## Getting started
+Download the vulnerable VM from https://www.vulnhub.com/entry/seattle-v03,145/
+Simply start up the virtual machine using Virtual Box! The root user account has a password of PASSWORD
+
+## Check the network
+Main points:
 - looking mostly for common-ish vulns
 - not competing with others
-- incentivized for count
-- payment guaranteed and quality check based on approximation 
-
-Crowdsourced:
-￼- ￼￼looking for vulns that aren’t as easy to find
 - racing vs. time
-- competitive vs. others 
-- incentivized to find unique bugs
-- payment based on impact not number of findings
+
+'netdiscover 192.168.0.0/24'
+
+'nmap -p 80 192.168.0.24'
 
 ## Tips / Notes:
 
