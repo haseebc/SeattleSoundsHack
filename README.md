@@ -1,4 +1,4 @@
-# The Bug Hunters Methodology (UNDERGOING CLEANUP)
+# Seattle Sounds
 
 Welcome! This repo is a conglomeration of tips, tricks, tools, and data analysis to use while doing web application security assessments, and more specifically towards bug hunting in bug bounties.
 
@@ -22,8 +22,4 @@ The current sections are divided as follows:
 
 The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
 
-@jhaddix
-
-## Defcon Video
-
-[![ScreenShot](https://dl.dropboxusercontent.com/u/37776965/2015-10-08_14-57-26.png)](https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/view?usp=sharing)
+info@ceziam.com
