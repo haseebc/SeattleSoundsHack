@@ -10,7 +10,7 @@ Main points:
 - not competing with others
 - racing vs. time
 
-'netdiscover 192.168.0.0/24'
+Try 'netdiscover 192.168.0.0/24'
 
 'nmap -p 80 192.168.0.24'
 
