@@ -1,7 +1,7 @@
 # Discovery
 
 
-[Contribution guidelines for this project](images/image1.png)
+(images/image1.png)
 
 ## Find the road less traveled
 
