@@ -5,9 +5,7 @@ Welcome! This repo is a conglomeration of tips, tricks, tools, and data analysis
 The current sections are divided as follows:
 
 * [Recon](/01_Recon.md)
-* [Discovery](/02_Discovery.md)
-* [Mapping](/03_Mapping.md)
-* [Authorization and Sessions](/04_Authorization_and_Session.md)
+* [Authorization and Sessions](/02_Authorization_and_Session.md)
 * Tactical fuzzing
   * [XSS](/05_XSS.md)
   * [SQLi](/06_SQLi.md)
