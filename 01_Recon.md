@@ -12,7 +12,20 @@ Main points:
 
 Try `netdiscover 192.168.0.0/24`
 
-'nmap -p 80 192.168.0.24'
+## See what ports are open
+
+`nmap -p 80 192.168.0.168`
+
+```
+root@kali:~# nmap 192.168.0.168
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-07-23 06:39 EDT
+Nmap scan report for 192.168.0.168
+Host is up (0.0016s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+```
 
 ## Tips / Notes:
 
