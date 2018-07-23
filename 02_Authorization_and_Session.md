@@ -1,7 +1,7 @@
 # Discovery
 
 
-(images/image1.png)
+[![ScreenShot](images/image1.png)]
 
 ## Find the road less traveled
 
